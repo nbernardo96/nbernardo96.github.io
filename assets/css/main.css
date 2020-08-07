@@ -2043,13 +2043,6 @@ input, select, textarea {
 
 /* Image */
 
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2656,10 +2649,10 @@ input, select, textarea {
 			width: 6.25em;
         }
         
-        .skills {
+        /* .skills {
             text-align: left;
             margin-left: 215px !important;
-        }
+        } */
 
 /* Footer */
 
