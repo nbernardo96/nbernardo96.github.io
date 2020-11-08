@@ -3233,4 +3233,11 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-	}
+    }
+    
+/* CUSTOM CLASSES */
+
+.tonysqueue {
+    height: 20px;
+    width: 20px;
+}
