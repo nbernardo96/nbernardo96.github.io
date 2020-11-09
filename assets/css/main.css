@@ -2130,7 +2130,8 @@ input, select, textarea {
 			}
 
 		.image.fit {
-			display: block;
+            display: block;
+            border-radius: 5%;
 			margin: 0 0 2em 0;
 			width: 100%;
 		}
@@ -3237,7 +3238,6 @@ input, select, textarea {
     
 /* CUSTOM CLASSES */
 
-.tonysqueue {
-    height: 20px;
-    width: 20px;
+.about-me {
+    text-align: center;
 }
